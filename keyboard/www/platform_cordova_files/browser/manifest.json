@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "keyboard",
+  "short_name": "keyboard",
+  "version": "com.moyancn.test",
+  "description": "Brand new cordova project!",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}

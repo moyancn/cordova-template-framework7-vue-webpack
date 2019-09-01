@@ -295,9 +295,11 @@ proguard/
 captures/
 
 # Keystore files
-*.jks
+*.jksss
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
 !/template_src/webpack/configs/
+keyboard/platforms
+keyboard/res
